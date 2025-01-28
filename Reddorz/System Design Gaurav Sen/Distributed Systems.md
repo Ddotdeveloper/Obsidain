@@ -7,7 +7,7 @@
 
 #### Microservice Architecture 
 
-![](Pasted%20image%2020250128131505.png)
+![](at/Pasted%20image%2020250128131505.png)
 
 - Here the chef 1 and 3  is the is good in making the pizza and chef 2 is good at making garlic bread 
 - if you hire an group of chef that has only spealized in the making of gralic bread then it is a microservice architecture 
