@@ -4,24 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "425bc8c4b8d24887",
-        "type": "tabs",
+        "id": "f9b1c6d656758835",
+        "type": "split",
         "children": [
           {
-            "id": "0bbdf405312afb0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React Native.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "React Native"
-            }
+            "id": "425bc8c4b8d24887",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0bbdf405312afb0e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "React Native.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "React Native"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6ccae9fdd24a8d2f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "82b2d904839ec047",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/divay/Documents/Obsedian/Reddorz",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 99,
+                        "data": "divay@192 Reddorz % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/community-plugins.json\r\n\u001b[8C.obsidian/plugins/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\ndivay@192 Reddorz % git add",
+                        "rows": 16
+                      }
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: zsh"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -160,17 +215,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "0bbdf405312afb0e",
+  "active": "82b2d904839ec047",
   "lastOpenFiles": [
+    "React Native.md",
     "at/Pasted image 20250416001936.png",
     "at/Pasted image 20250416001918.png",
     "at/Pasted image 20250416001522.png",
     "at",
     "Welcome.md",
-    "React Native.md",
     "Week 0.md",
     "Systematice Review of the Host Based Intrusion Detection System.md",
     "Imp Prompt.md",
