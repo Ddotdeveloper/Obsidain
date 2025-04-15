@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f9b1c6d656758835",
+        "id": "2271bd5917eebf5a",
         "type": "split",
         "children": [
           {
@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "React Native.md",
+                    "file": "React Native/React Native.md",
                     "mode": "source",
                     "source": false
                   },
@@ -28,11 +28,11 @@
             ]
           },
           {
-            "id": "6ccae9fdd24a8d2f",
+            "id": "fa5b74cd27d7a309",
             "type": "tabs",
             "children": [
               {
-                "id": "82b2d904839ec047",
+                "id": "d5df3e8650568f6c",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -63,7 +63,7 @@
                       },
                       "serial": {
                         "columns": 99,
-                        "data": "divay@192 Reddorz % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/community-plugins.json\r\n\u001b[8C.obsidian/plugins/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\ndivay@192 Reddorz % git add",
+                        "data": "divay@192 Reddorz % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    React Native.md\r\n\u001b[8Cdeleted:    at/Pasted image 20250416001522.png\r\n\u001b[8Cdeleted:    at/Pasted image 20250416001918.png\r\n\u001b[8Cdeleted:    at/Pasted image 20250416001936.png\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31mReact Native/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\ndivay@192 Reddorz % git add  \u001b[2D",
                         "rows": 16
                       }
                     }
@@ -219,12 +219,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "82b2d904839ec047",
+  "active": "d5df3e8650568f6c",
   "lastOpenFiles": [
-    "React Native.md",
+    "React Native/React Native.md",
+    "at/Pasted image 20250416001522.png",
+    "at/Pasted image 20250416002749.png",
+    "React Native",
     "at/Pasted image 20250416001936.png",
     "at/Pasted image 20250416001918.png",
-    "at/Pasted image 20250416001522.png",
     "at",
     "Welcome.md",
     "Week 0.md",

@@ -15,8 +15,3 @@ Here that particualr `native compoenent ` is showing what kind of componenet it 
 ### Quick Overview of React 
 
 {} -> this is protal of using js in the React(jsx) component.  using js functinality in the jsx 
-
-
-
-Image 2 
-![](at/Pasted%20image%2020250416001936.png)
